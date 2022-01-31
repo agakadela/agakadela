@@ -17,3 +17,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agawozniak&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agawozniak&theme=jolly)
+
+---
+[<img src="https://user-images.githubusercontent.com/14938482/151793615-1fbb3818-fa19-4cd8-bf1e-74b1b9ea1e31.png" width="250" />](https://coderwoman.com)
