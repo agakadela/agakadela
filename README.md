@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, world! 👋
 
  - Over the past eight years, I have created many website projects using **Javascript, React, WordPress**, and other modern tools like **Next.js or Redux** 👩‍💻  
  - I believe that 👉 **everyone can learn how to code** 👈, and that's why I created the online project called Coder Woman that helps women quickly start their programming journey 🦸‍♀️  
