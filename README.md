@@ -19,8 +19,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agawozniak&theme=jolly)
 
 <img
-     src="https://activity-graph.herokuapp.com/graph?username=agawozniak&theme=chartreuse-dark…"
-     /> 
+     src="https://activity-graph.herokuapp.com/graph?username=agawozniak&theme=jolly"
+/> 
 
 ---
 [<img src="https://user-images.githubusercontent.com/14938482/151793615-1fbb3818-fa19-4cd8-bf1e-74b1b9ea1e31.png" width="250" />](https://coderwoman.com)
