@@ -1,6 +1,6 @@
 ### Hello, world! 👋
 
- - Over the past eight years, I have created many website projects using **Javascript, React, WordPress**, and other modern tools like **Next.js or Redux** 👩‍💻  
+ - Over the past eight years, I have created many website projects using **Javascript, React, WordPress**, and other modern tools like **Next.js and Redux** 👩‍💻  
  - I believe that 👉 **everyone can learn how to code** 👈, and that's why I created the online project called Coder Woman that helps women quickly start their programming journey 🦸‍♀️  
 - I have worked as a web developer since I finished my sports career in volleyball 🏐  
 - I learned many lessons about hard work, passion, competition, and winning as a volleyball player 🏆  
