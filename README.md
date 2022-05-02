@@ -11,6 +11,7 @@
 ### My links 🔗:
 - Personal website: [www.agakadela.com](https://agakadela.com)
 - Coder Woman website: [www.coderwoman.com](https://coderwoman.com)
+- - Coder Woman Community: [JOIN HERE ON DISCORD](https://discord.gg/MPxwsVkPUc)
 ---
 ### My stats ⚡️:
   
