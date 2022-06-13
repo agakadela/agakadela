@@ -1,5 +1,7 @@
 ### Hello, world! 👋
 
+[<img src="https://user-images.githubusercontent.com/14938482/173395971-707d0d64-ca9d-4c34-9f08-df2a80c229fd.png" width="250" />](https://agakadela.com)
+
  - Over the past eight years, I have created many website projects using **Javascript, React, WordPress**, and other modern tools like **Next.js and Redux** 👩‍💻  
  - I believe that 👉 **everyone can learn how to code** 👈, and that's why I created the online project called Coder Woman that helps women quickly start their programming journey 🦸‍♀️  
 - I have worked as a web developer since I finished my sports career in volleyball 🏐  
