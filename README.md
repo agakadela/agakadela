@@ -7,7 +7,7 @@
 - I have worked as a web developer since I finished my sports career in volleyball 🏐  
 - I learned many lessons about hard work, passion, competition, and winning as a volleyball player 🏆  
 - 🔭 I’m currently working on ✨ Coder Woman ✨ project 
-- 🌱 I’m currently learning Python and Machine Learning basics to gain Tensorflow certificate in the future 🤖  
+- 🌱 I’m currently learning Python and Machine Learning to gain Tensorflow certificate in the future 🤖  
 
 ---
 ### My links 🔗:
