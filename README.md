@@ -17,9 +17,9 @@
 ---
 ### My stats ⚡️:
   
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=agakadela&show_icons=true&theme=jolly)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=agakadela&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agakadela&theme=jolly)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agakadela&layout=compact&theme=radical)
 
 ---
 [<img src="https://user-images.githubusercontent.com/14938482/151793615-1fbb3818-fa19-4cd8-bf1e-74b1b9ea1e31.png" width="250" />](https://coderwoman.com)
