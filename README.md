@@ -16,9 +16,9 @@
 
 ---
 ### My links 🔗:
-- Personal website: [www.agakadela.com](https://agakadela.com)
-- Coder Woman website: [www.coderwoman.com](https://coderwoman.com)
-- Dotty.ai website: [www.dotty.ai](https://dotty.ai)
+- Personal website: [agakadela.com](https://agakadela.com)
+- Coder Woman website: [coderwoman.com](https://coderwoman.com)
+- Dotty.ai website: [dotty.ai](https://dotty.ai)
 ---
 ### My stats ⚡️:
   
