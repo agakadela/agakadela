@@ -8,7 +8,7 @@
 
 - 🔭  That's why I founded  ✨ Coder Woman✨ . It's more than a project on my résumé. It's a movement. For every woman who's hesitated, wondered, or doubted—this is your tech revolution.
 
-- Do you think coding is just a boys' club? Think again! With my Coder Woman project, I want to show that 👉 everyone can code 👈. To all the women questioning their tech potential: I'm here standing with you! We're not just challenging stereotypes; we're tearing them down, brick by brick.
+- Do you think coding is just a boys' club? Think again! With my Coder Woman project, I want to show that 👉 everyone can code 👈. To all the women questioning their tech potential: I'm here standing with you!
   
 - Additionally, I've launched - ✨ Dotty ✨  - an AI-powered learning plan generator. Imagine a tech industry where every woman has her own roadmap to success, tailored just for her journey. That's the future Dotty is building – vibrant, inclusive, and unstoppable.
   
