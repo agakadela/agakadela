@@ -6,7 +6,7 @@
 
 - Volleyball was my first passion, teaching me about hard work and team spirit. Transitioning to tech was a big challenge. I know the doubts many women face when considering coding. Believe me, I've been there! 🏐  🏆 
 
-- 🔭  That's why I founded the ✨ Coder Woman Project ✨ . It's more than a project on my résumé. It's a movement. For every woman who's hesitated, wondered, or doubted—this is your tech revolution.
+- 🔭  That's why I founded the ✨ Coder Woman ✨ project. It's more than a project on my résumé. It's a movement. For every woman who's hesitated, wondered, or doubted—this is your place.
 
 - Do you think coding is just a boys' club? Think again! With my Coder Woman project, I want to show that 👉 everyone can code 👈. To all the women questioning their tech potential: I'm here standing with you!
   
