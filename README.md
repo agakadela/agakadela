@@ -23,6 +23,7 @@ I don’t waste time arguing about tabs vs. spaces or whether React is still “
 ---
 ### My links 🔗:
 - Personal website: [agakadela.com](https://agakadela.com)
+- Dotty.ai website: [dotty.ai](https://dotty.ai)
 - Coder Woman website: [coderwoman.com](https://coderwoman.com)
 ---
 ### My stats ⚡️:
