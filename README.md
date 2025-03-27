@@ -4,22 +4,21 @@
 
 💻 Some people talk tech. I build it.
 
-I don’t waste time arguing about tabs vs. spaces or whether React is still “cool.” I’m too busy fixing, scaling, and pushing Next.js & React apps to perform better than ever.
+I don’t waste time arguing about tabs vs. spaces or whether React is still “cool.” I’m too busy fixing, scaling, and pushing Next.js & React apps to perform better than ever.  
+I work under **Dotty.ai**, where I build SaaS apps, Chrome extensions, AI-powered features, and automation tools — both for myself and for clients. Most of my projects are built from scratch using modern stacks, but I also take on rebuilds when no-code or AI-generated apps break under real use.
 
 🏐 From volleyball to code—sounds weird, right? But learning to code was the hardest (and best) decision I ever made. No CS degree. No shortcuts. Just building, breaking things, and making them better.
 
-✨ That’s why I started Coder Woman. Not just for me—for every woman who’s ever felt like she didn’t belong in tech. Trust me, I’ve been there. Now? I make sure more women break in, level up, and build careers in code.
+✨ On the side, I run **Coder Woman**, for every woman who’s ever felt like she didn’t belong in tech. Trust me, I’ve been there. Now? I make sure more women break in, level up, and build careers in code.
 
-🚀 What I actually do:  
-✅ I fix messy, broken, and slow Next.js & React apps.  
-✅ I scale projects so they don’t crash when they actually get traffic.  
-✅ I build web apps—AI-powered and not—that are fast, scalable, and built to last.  
-✅ I integrate AI-driven automation to make web apps smarter & more efficient.
+### 🛠 Tech I Use
+- **Frontend & Backend:** Next.js (App Router), TailwindCSS, TypeScript  
+- **Databases:** Supabase, PostgreSQL, Firebase  
+- **AI Tools:** Gemini, Claude, OpenAI, Pinecone, Hugging Face, embeddings, Assistants API  
+- **Chrome Extensions:** Extension APIs, background logic, messaging  
+- **Other:** REST APIs, auth, webhooks, automation logic
 
-🔍 Currently exploring: AI-enhanced user experiences, advanced front-end architectures, and how to make Next.js apps ridiculously fast.
-🧠 Deeply diving into AI—from integrations to automation, finding smarter ways to make web applications more powerful.
-
-👀 Check out my projects & let’s build something awesome.
+### If you’re building something interesting — or cleaning up something that isn’t — feel free to reach out.
 ---
 ### My links 🔗:
 - Personal website: [agakadela.com](https://agakadela.com)
