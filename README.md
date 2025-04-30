@@ -18,7 +18,7 @@ I work under **Dotty.ai**, where I build SaaS apps, Chrome extensions, AI-powere
 - **Chrome Extensions:** Extension APIs, background logic, messaging  
 - **Other:** REST APIs, auth, webhooks, automation logic
 
-### If you’re building something interesting — or cleaning up something that isn’t — feel free to reach out.
+### If you’re building something interesting — or cleaning up something that isn’t working well — feel free to reach out.
 ---
 ### My links 🔗:
 - Personal website: [agakadela.com](https://agakadela.com)
