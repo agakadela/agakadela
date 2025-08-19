@@ -6,7 +6,6 @@
 ### My links 🔗:
 - Personal website: [agakadela.com](https://agakadela.com)
 - Dotty.ai website: [dotty.ai](https://dotty.ai)
-- Coder Woman website: [coderwoman.com](https://coderwoman.com)
 ---
 ### My stats ⚡️:
   
@@ -15,4 +14,3 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agakadela&layout=compact&theme=radical)
 
 ---
-[<img src="https://user-images.githubusercontent.com/14938482/151793615-1fbb3818-fa19-4cd8-bf1e-74b1b9ea1e31.png" width="250" />](https://coderwoman.com)
