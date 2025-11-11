@@ -5,7 +5,7 @@
 ---
 ### My links 🔗:
 - Personal website: [agakadela.com](https://agakadela.com)
-- FunnelScout website: [dotty.ai](https://funnelscout.ai)
+- FunnelScout website: [funnelscout.ai](https://funnelscout.ai)
 ---
 ### My stats ⚡️:
   
