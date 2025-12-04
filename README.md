@@ -2,7 +2,7 @@
 
 Worked on checkout and payment systems for an e-commerce platform with 1M+ users. Thousands of daily transactions. 10 years building web apps.
 
-### Projects
+### Recent Projects
 
 **[FunnelScout](https://funnelscout.ai)** — AI funnel analyzer  
 Next.js · Claude API · Apify · Inngest · PostgreSQL
