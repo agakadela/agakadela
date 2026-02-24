@@ -15,7 +15,7 @@ Stripe subscriptions · Member dashboard
 
 ### Stack
 
-Next.js 14-16 · React · TypeScript · PostgreSQL · Prisma · Stripe
+Next.js 14+ · React · TypeScript · PostgreSQL · Prisma · Stripe · Inngest · AI Integrations
 
 ### Work
 
