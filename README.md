@@ -4,9 +4,6 @@ Worked on checkout and payment systems for an e-commerce platform with 1M+ users
 
 ### Recent Projects
 
-**[FunnelScout](https://funnelscout.ai)** — AI funnel analyzer  
-Next.js · Claude API · Apify · Inngest · PostgreSQL
-
 **[Claro](https://claro-peach.vercel.app/)** — Multi-tenant marketplace  
 Subdomain routing · Stripe Connect · Tenant isolation
 
