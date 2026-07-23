@@ -1,8 +1,8 @@
 [<img src="https://user-images.githubusercontent.com/14938482/173395971-707d0d64-ca9d-4c34-9f08-df2a80c229fd.png" width="150" />](https://agakadela.com)
 
-My work covers both new applications and important changes to software that is already in use.
+I take responsibility for new applications and important changes to software already in use.
 
-I worked independently for 9 years, delivering software to 20+ clients. At x-kom, I worked for 18 months as part of the checkout team on an enterprise platform serving 1M+ customers.
+My experience includes 9 years of independent software delivery for 20+ clients and product development within a mature team on an enterprise platform serving 1M+ customers.
 
 ## Selected projects
 
