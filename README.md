@@ -1,28 +1,15 @@
 [<img src="https://user-images.githubusercontent.com/14938482/173395971-707d0d64-ca9d-4c34-9f08-df2a80c229fd.png" width="150" />](https://agakadela.com)
 
-I work with Python, TypeScript, and full-stack AI software.
+My work covers both new applications and important changes to software that is already in use.
 
-I build and review software in places where small mistakes get expensive: requirements, tests, auth, payments, data access, background jobs, AI costs, and user-visible behavior.
+I worked independently for 9 years, delivering software to 20+ clients. At x-kom, I worked for 18 months as part of the checkout team on an enterprise platform serving 1M+ customers.
 
-I worked on a checkout team for one of Europe's largest e-commerce platforms: 1M+ users, thousands of daily transactions, and code paths where a small mistake could stop money from moving.
+## Selected projects
 
-That shaped how I read code now. I look for the actual change, the evidence behind it, and what can break in production.
+- [PatchTrace](https://github.com/agakadela/patchtrace): I built this Python CLI to check whether a coding agent's final response agrees with the session record. It uses Git changes and command output, then writes summary, feedback, and verification reports. Its test suite covers unit and integration behavior; typing and build checks also run in CI.
+- [Funnelscout](https://github.com/agakadela/funnelscout): I built this TypeScript product for agencies using GoHighLevel. It brings organization-level access, signed webhook intake, GHL OAuth, background processing, and Stripe billing into one application. Authenticated dashboards expose the results. The AI analysis has 3 fixed stages, and every output is validated against a schema.
 
-## Current Focus
-
-Generated-code evaluation, Python and TypeScript tooling, test evidence, failure analysis, backend behavior, and practical checks for AI-assisted development.
-
-## What I Care About
-
-- code that matches the actual requirement
-- tests that prove the important behavior
-- edge cases and failure paths handled clearly
-- production-sensitive areas like auth, payments, data access, and background jobs
-- AI-generated changes backed by evidence instead of confident summaries
-
-## Main Stack
-
-Python · TypeScript · Next.js · React · Node.js · PostgreSQL · Supabase · Stripe · OpenAI / Anthropic APIs · Git · CI/CD
+When coding agents assist, I still define the behavior, review the implementation, and check the tests before accepting the result.
 
 Los Angeles, CA · [agakadela.com](https://agakadela.com)
 
